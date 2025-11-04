@@ -31,6 +31,7 @@ Mi experiencia abarca el ciclo de vida completo del desarrollo y las pruebas, ut
 | **Node.js** | ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) |
 | **Astro** | ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white) |
 | **HTML/CSS** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+| **Figma** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
 
 ## Bases de Datos
 | Base de Datos |  |
@@ -44,10 +45,10 @@ Mi experiencia abarca el ciclo de vida completo del desarrollo y las pruebas, ut
 | Herramienta |  |
 | ---: | :--- |
 | **Selenium** | ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) |
+| **Postman** | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
 | **Cucumber** | ![Cucumber](https://img.shields.io/badge/Cucumber-2B5C1B?style=for-the-badge&logo=cucumber&logoColor=white) |
 | **Mocha** | ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white) |
 | **TestNG** | ![TestNG](https://img.shields.io/badge/TestNG-FD0F00?style=for-the-badge&logo=testng&logoColor=white) |
-| **Postman** | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
 | **Power BI** | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) |
 | **TestLink** | ![TestLink](https://img.shields.io/badge/TestLink-1D76C4?style=for-the-badge&logoColor=white) |
 | **Mantis** | ![Mantis](https://img.shields.io/badge/MantisBT-FF6600?style=for-the-badge&logoColor=white) |
@@ -57,8 +58,7 @@ Mi experiencia abarca el ciclo de vida completo del desarrollo y las pruebas, ut
 | ---: | :--- |
 | **GitHub** | ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) |
 | **Maven** | ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white) |
-| **Figma** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
-
+| **Docker**| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)|
 ---
 
 # 🌟 Experiencia Clave
