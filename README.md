@@ -1,5 +1,5 @@
 | | |
-| :---|:---|
+| :---:|:---:|
 | ![Profile](images/profile.png) | ![Banner cover](images/LinkedIn_Banner.png) |
 <br>
 
@@ -22,7 +22,7 @@ Mi experiencia abarca el ciclo de vida completo del desarrollo y las pruebas, ut
 
 ## Desarrollo Web (Frontend & Backend)
 | Tecnología |  |
-| :--- | :--- |
+| ---: | :--- |
 | **JavaScript** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
 | **TypeScript** | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) |
 | **Java** | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) |
@@ -34,7 +34,7 @@ Mi experiencia abarca el ciclo de vida completo del desarrollo y las pruebas, ut
 
 ## Bases de Datos
 | Base de Datos |  |
-| :--- | :--- |
+| ---: | :--- |
 | **PostgreSQL** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
 | **MongoDB** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
 | **MariaDB** | ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) |
@@ -42,7 +42,7 @@ Mi experiencia abarca el ciclo de vida completo del desarrollo y las pruebas, ut
 
 ## QA y Datos
 | Herramienta |  |
-| :--- | :--- |
+| ---: | :--- |
 | **Selenium** | ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) |
 | **Cucumber** | ![Cucumber](https://img.shields.io/badge/Cucumber-2B5C1B?style=for-the-badge&logo=cucumber&logoColor=white) |
 | **Mocha** | ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white) |
@@ -53,8 +53,8 @@ Mi experiencia abarca el ciclo de vida completo del desarrollo y las pruebas, ut
 | **Mantis** | ![Mantis](https://img.shields.io/badge/MantisBT-FF6600?style=for-the-badge&logoColor=white) |
 
 ## Control de Versiones y Gestión
-| Herramienta | Insignia |
-| :--- | :--- |
+| Herramienta |  |
+| ---: | :--- |
 | **GitHub** | ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) |
 | **Maven** | ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white) |
 | **Figma** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
