@@ -83,7 +83,8 @@ He participado en roles de desarrollo, pruebas y análisis de datos en distintas
 # 📬 Medios de Contacto
 
 |  |  |
-| :--- | :--- |
-| **LinkedIn:** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jafeth-badillo32) |
+| ---: | :--- |
+| **WhatsApp**| [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/525538111201) |
 | **Email** | [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jafethbadillomartinez@gmail.com) |
+| **LinkedIn:** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jafeth-badillo32) |
 | **Ubicación** | 📍 Jardines de Chalco, Edo. Mex.|
